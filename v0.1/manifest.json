@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§l§gby:LGH",
+        "name": "§g§l彩虹破坏动画",
+        "uuid": "3c259bde-7fe4-d04f-4d61-b433fd7d72e2",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 93 ]
+    },
+    "modules": [
+        {
+            "description": "§gby:LGH",
+            "type": "resources",
+            "uuid": "2244c245-630d-873b-8194-66dd75409c88",
+            "version": [0, 0, 1]
+        }
+    ]
+}
